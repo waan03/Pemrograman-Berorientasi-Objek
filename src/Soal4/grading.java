@@ -33,7 +33,7 @@ public class grading {
             System.out.print("A");
         }
         else{
-            System.out.print("nilai gabener ajg");
+            System.out.print("nilai gabener");
         }
 
     }
